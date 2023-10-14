@@ -62,5 +62,5 @@ title('phase of Hann Window');
 % Adjust the spacing between subplots
 sgtitle('Magnitude Response Comparison')
 
-legend('21UEC116 Deepak Kumar');
+legend('21UEC118 Debajyoti Roy');
 
